@@ -1,0 +1,12 @@
+{
+    "name": "FLUX",
+    "symbol": "FLX",
+    "description": "Build In Flux",
+    "image": "",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Token"
+      }
+    ]
+  }
