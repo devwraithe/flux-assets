@@ -1,12 +1,28 @@
 {
-    "name": "FLUX",
-    "symbol": "FLX",
-    "description": "Build In Flux",
-    "image": "https://github.com/devwraithe/flux-assets/blob/main/flux.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Token"
-      }
-    ]
-  }
+  "name": "Tanjiro Kamado",
+  "symbol": "TANJIRO",
+  "description": "The kind-hearted demon slayer with an unwavering spirit. Wielder of Water Breathing and Hinokami Kagura, forever determined to protect humanity and restore his sister's humanity.",
+  "image": "https://github.com/devwraithe/tanjiro-assets/blob/main/tanjiro.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Token"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tanjiro Kamado"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Demon Slayer"
+    },
+    {
+      "trait_type": "Breathing Style",
+      "value": "Water & Sun"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
