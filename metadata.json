@@ -1,28 +1,16 @@
 {
-  "name": "Tanjiro Kamado",
-  "symbol": "TANJIRO",
-  "description": "The kind-hearted demon slayer with an unwavering spirit. Wielder of Water Breathing and Hinokami Kagura, forever determined to protect humanity and restore his sister's humanity.",
-  "image": "https://raw.githubusercontent.com/devwraithe/token-assets/refs/heads/main/tanjiro.png",
+  "name": "Devwraithe",
+  "symbol": "DVRT",
+  "description": "The relentless builder and code warrior. Forging digital solutions with precision and passion, forever committed to pushing the boundaries of innovation and crafting exceptional experiences.",
+  "image": "https://raw.githubusercontent.com/devwraithe/token-assets/refs/heads/main/devwraithe.png",
   "attributes": [
     {
       "trait_type": "Item",
       "value": "Token"
     },
     {
-      "trait_type": "Character",
-      "value": "Tanjiro Kamado"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Demon Slayer"
-    },
-    {
-      "trait_type": "Breathing Style",
-      "value": "Water & Sun"
-    },
-    {
-      "trait_type": "Rarity",
-      "value": "Legendary"
+      "trait_type": "Type",
+      "value": "Developer Token"
     }
   ]
 }
